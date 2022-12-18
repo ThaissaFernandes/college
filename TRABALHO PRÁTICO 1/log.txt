@@ -1,0 +1,331 @@
+Iniciou-se o jogo 'Fedaput'
+Iniciou-se a partida: 1
+Jogador 1 disse que faz 1 rodada(s).
+Jogador 2 disse que faz 1 rodada(s).
+Jogador 3 disse que faz 1 rodada(s).
+Jogador 4 disse que faz 1 rodada(s).
+Jogador 5 disse que faz 1 rodada(s).
+Jogador 6 disse que faz 1 rodada(s).
+Jogador 7 disse que faz 1 rodada(s).
+Jogador 8 disse que faz 1 rodada(s).
+Comecou a rodada: 1
+Carta escolhida pelo jogador 1: K de Espadas
+Carta escolhida pelo jogador 2: 3 de Ouros
+Carta escolhida pelo jogador 3: 7 de Copas
+Carta escolhida pelo jogador 4: 3 de Copas
+Carta escolhida pelo jogador 5: 5 de Paus
+Carta escolhida pelo jogador 6: 7 de Paus
+Carta escolhida pelo jogador 7: 2 de Paus
+Carta escolhida pelo jogador 8: K de Paus
+Jogador 3 ganhou a rodada!
+Comecou a rodada: 2
+Carta escolhida pelo jogador 1: Q de Ouros
+Carta escolhida pelo jogador 2: J de Espadas
+Carta escolhida pelo jogador 3: K de Ouros
+Carta escolhida pelo jogador 4: Q de Paus
+Carta escolhida pelo jogador 5: 4 de Ouros
+Carta escolhida pelo jogador 6: As de Espadas
+Carta escolhida pelo jogador 7: 2 de Copas
+Carta escolhida pelo jogador 8: 2 de Espadas
+Jogador 6 ganhou a rodada!
+Comecou a rodada: 3
+Carta escolhida pelo jogador 1: 5 de Ouros
+Carta escolhida pelo jogador 2: 7 de Espadas
+Carta escolhida pelo jogador 3: As de Copas
+Carta escolhida pelo jogador 4: As de Ouros
+Carta escolhida pelo jogador 5: 7 de Ouros
+Carta escolhida pelo jogador 6: 2 de Ouros
+Carta escolhida pelo jogador 7: J de Ouros
+Carta escolhida pelo jogador 8: 3 de Paus
+Jogador 5 ganhou a rodada!
+Comecou a rodada: 4
+Carta escolhida pelo jogador 1: K de Copas
+Carta escolhida pelo jogador 2: 5 de Copas
+Carta escolhida pelo jogador 3: 4 de Espadas
+Carta escolhida pelo jogador 4: 6 de Paus
+Carta escolhida pelo jogador 5: 6 de Espadas
+Carta escolhida pelo jogador 6: 6 de Copas
+Carta escolhida pelo jogador 7: J de Copas
+Carta escolhida pelo jogador 8: 3 de Espadas
+Jogador 8 ganhou a rodada!
+Comecou a rodada: 5
+Carta escolhida pelo jogador 1: J de Paus
+Carta escolhida pelo jogador 2: As de Paus
+Carta escolhida pelo jogador 3: Q de Copas
+Carta escolhida pelo jogador 4: 6 de Ouros
+Carta escolhida pelo jogador 5: 4 de Paus
+Carta escolhida pelo jogador 6: 5 de Espadas
+Carta escolhida pelo jogador 7: 4 de Copas
+Carta escolhida pelo jogador 8: Q de Espadas
+Jogador 5 ganhou a rodada!
+Jogador 1 permanece com 4 vida(s)
+Jogador 2 permanece com 4 vida(s)
+Jogador 3 permanece com 5 vida(s)
+Jogador 4 permanece com 4 vida(s)
+Jogador 5 permanece com 4 vida(s)
+Jogador 6 permanece com 5 vida(s)
+Jogador 7 permanece com 4 vida(s)
+Jogador 8 permanece com 5 vida(s)
+Iniciou-se a partida: 2
+Jogador 2 disse que faz 1 rodada(s).
+Jogador 3 disse que faz 1 rodada(s).
+Jogador 4 disse que faz 1 rodada(s).
+Jogador 5 disse que faz 1 rodada(s).
+Jogador 6 disse que faz 1 rodada(s).
+Jogador 7 disse que faz 1 rodada(s).
+Jogador 8 disse que faz 1 rodada(s).
+Jogador 1 disse que faz 1 rodada(s).
+Comecou a rodada: 1
+Carta escolhida pelo jogador 2: 5 de Espadas
+Carta escolhida pelo jogador 3: J de Ouros
+Carta escolhida pelo jogador 4: 5 de Ouros
+Carta escolhida pelo jogador 5: 6 de Paus
+Carta escolhida pelo jogador 6: As de Paus
+Carta escolhida pelo jogador 7: 7 de Copas
+Carta escolhida pelo jogador 8: K de Copas
+Carta escolhida pelo jogador 1: K de Ouros
+Jogador 7 ganhou a rodada!
+Comecou a rodada: 2
+Carta escolhida pelo jogador 2: 5 de Copas
+Carta escolhida pelo jogador 3: 3 de Ouros
+Carta escolhida pelo jogador 4: As de Espadas
+Carta escolhida pelo jogador 5: 7 de Ouros
+Carta escolhida pelo jogador 6: 3 de Paus
+Carta escolhida pelo jogador 7: 5 de Paus
+Carta escolhida pelo jogador 8: 3 de Copas
+Carta escolhida pelo jogador 1: 2 de Paus
+Jogador 4 ganhou a rodada!
+Comecou a rodada: 3
+Carta escolhida pelo jogador 2: J de Espadas
+Carta escolhida pelo jogador 3: 2 de Copas
+Carta escolhida pelo jogador 4: 4 de Espadas
+Carta escolhida pelo jogador 5: 4 de Copas
+Carta escolhida pelo jogador 6: Q de Espadas
+Carta escolhida pelo jogador 7: 7 de Paus
+Carta escolhida pelo jogador 8: J de Paus
+Carta escolhida pelo jogador 1: Q de Ouros
+Jogador 3 ganhou a rodada!
+Comecou a rodada: 4
+Carta escolhida pelo jogador 2: As de Ouros
+Carta escolhida pelo jogador 3: Q de Copas
+Carta escolhida pelo jogador 4: 6 de Ouros
+Carta escolhida pelo jogador 5: K de Espadas
+Carta escolhida pelo jogador 6: 4 de Ouros
+Carta escolhida pelo jogador 7: 7 de Espadas
+Carta escolhida pelo jogador 8: As de Copas
+Carta escolhida pelo jogador 1: 2 de Espadas
+Jogador 1 ganhou a rodada!
+Jogador 1 permanece com 4 vida(s)
+Jogador 2 permanece com 3 vida(s)
+Jogador 3 permanece com 5 vida(s)
+Jogador 4 permanece com 4 vida(s)
+Jogador 5 permanece com 3 vida(s)
+Jogador 6 permanece com 4 vida(s)
+Jogador 7 permanece com 4 vida(s)
+Jogador 8 permanece com 4 vida(s)
+Iniciou-se a partida: 3
+Jogador 3 disse que faz 1 rodada(s).
+Jogador 4 disse que faz 1 rodada(s).
+Jogador 5 disse que faz 1 rodada(s).
+Jogador 6 disse que faz 1 rodada(s).
+Jogador 7 disse que faz 1 rodada(s).
+Jogador 8 disse que faz 1 rodada(s).
+Jogador 1 disse que faz 1 rodada(s).
+Jogador 2 disse que faz 1 rodada(s).
+Comecou a rodada: 1
+Carta escolhida pelo jogador 3: Q de Espadas
+Carta escolhida pelo jogador 4: K de Paus
+Carta escolhida pelo jogador 5: 6 de Espadas
+Carta escolhida pelo jogador 6: 2 de Paus
+Carta escolhida pelo jogador 7: 7 de Copas
+Carta escolhida pelo jogador 8: 6 de Copas
+Carta escolhida pelo jogador 1: Q de Ouros
+Carta escolhida pelo jogador 2: 5 de Copas
+Jogador 7 ganhou a rodada!
+Comecou a rodada: 2
+Carta escolhida pelo jogador 3: As de Paus
+Carta escolhida pelo jogador 4: As de Espadas
+Carta escolhida pelo jogador 5: 4 de Ouros
+Carta escolhida pelo jogador 6: 3 de Espadas
+Carta escolhida pelo jogador 7: 2 de Ouros
+Carta escolhida pelo jogador 8: J de Copas
+Carta escolhida pelo jogador 1: 6 de Ouros
+Carta escolhida pelo jogador 2: 7 de Ouros
+Jogador 4 ganhou a rodada!
+Comecou a rodada: 3
+Carta escolhida pelo jogador 3: 3 de Ouros
+Carta escolhida pelo jogador 4: 6 de Paus
+Carta escolhida pelo jogador 5: 5 de Paus
+Carta escolhida pelo jogador 6: J de Paus
+Carta escolhida pelo jogador 7: 5 de Ouros
+Carta escolhida pelo jogador 8: Q de Copas
+Carta escolhida pelo jogador 1: As de Copas
+Carta escolhida pelo jogador 2: 4 de Espadas
+Jogador 3 ganhou a rodada!
+Jogador 1 permanece com 3 vida(s)
+Jogador 2 permanece com 2 vida(s)
+Jogador 3 permanece com 5 vida(s)
+Jogador 4 permanece com 4 vida(s)
+Jogador 5 permanece com 2 vida(s)
+Jogador 6 permanece com 3 vida(s)
+Jogador 7 permanece com 4 vida(s)
+Jogador 8 permanece com 3 vida(s)
+Iniciou-se a partida: 4
+Jogador 4 disse que faz 1 rodada(s).
+Jogador 5 disse que faz 1 rodada(s).
+Jogador 6 disse que faz 1 rodada(s).
+Jogador 7 disse que faz 1 rodada(s).
+Jogador 8 disse que faz 1 rodada(s).
+Jogador 1 disse que faz 1 rodada(s).
+Jogador 2 disse que faz 1 rodada(s).
+Jogador 3 disse que faz 1 rodada(s).
+Comecou a rodada: 1
+Carta escolhida pelo jogador 4: As de Copas
+Carta escolhida pelo jogador 5: 5 de Ouros
+Carta escolhida pelo jogador 6: 2 de Copas
+Carta escolhida pelo jogador 7: 5 de Espadas
+Carta escolhida pelo jogador 8: Q de Espadas
+Carta escolhida pelo jogador 1: 5 de Paus
+Carta escolhida pelo jogador 2: 2 de Ouros
+Carta escolhida pelo jogador 3: K de Espadas
+Jogador 6 ganhou a rodada!
+Comecou a rodada: 2
+Carta escolhida pelo jogador 4: K de Copas
+Carta escolhida pelo jogador 5: K de Ouros
+Carta escolhida pelo jogador 6: 5 de Copas
+Carta escolhida pelo jogador 7: As de Paus
+Carta escolhida pelo jogador 8: 6 de Espadas
+Carta escolhida pelo jogador 1: 7 de Espadas
+Carta escolhida pelo jogador 2: Q de Copas
+Carta escolhida pelo jogador 3: Q de Ouros
+Jogador 7 ganhou a rodada!
+Jogador 1 permanece com 2 vida(s)
+Jogador 2 permanece com 1 vida(s)
+Jogador 3 permanece com 4 vida(s)
+Jogador 4 permanece com 3 vida(s)
+Jogador 5 permanece com 1 vida(s)
+Jogador 6 permanece com 3 vida(s)
+Jogador 7 permanece com 4 vida(s)
+Jogador 8 permanece com 2 vida(s)
+Iniciou-se a partida: 5
+Jogador 5 disse que faz 1 rodada(s).
+Jogador 6 disse que faz 1 rodada(s).
+Jogador 7 disse que faz 1 rodada(s).
+Jogador 8 disse que faz 1 rodada(s).
+Jogador 1 disse que faz 1 rodada(s).
+Jogador 2 disse que faz 1 rodada(s).
+Jogador 3 disse que faz 1 rodada(s).
+Jogador 4 disse que faz 1 rodada(s).
+Comecou a rodada: 1
+Carta escolhida pelo jogador 5: 4 de Ouros
+Carta escolhida pelo jogador 6: J de Paus
+Carta escolhida pelo jogador 7: As de Copas
+Carta escolhida pelo jogador 8: Q de Copas
+Carta escolhida pelo jogador 1: 7 de Espadas
+Carta escolhida pelo jogador 2: 4 de Espadas
+Carta escolhida pelo jogador 3: As de Ouros
+Carta escolhida pelo jogador 4: 6 de Ouros
+Jogador 7 ganhou a rodada!
+Jogador 1 permanece com 1 vida(s)
+Jogador 2 permanece com 0 vida(s)
+Jogador 2 saiu da partida.
+Jogador 3 permanece com 3 vida(s)
+Jogador 4 permanece com 2 vida(s)
+Jogador 5 permanece com 0 vida(s)
+Jogador 5 saiu da partida.
+Jogador 6 permanece com 2 vida(s)
+Jogador 7 permanece com 4 vida(s)
+Jogador 8 permanece com 1 vida(s)
+Iniciou-se a partida: 6
+Jogador 6 disse que faz 1 rodada(s).
+Jogador 7 disse que faz 1 rodada(s).
+Jogador 8 disse que faz 1 rodada(s).
+Jogador 1 disse que faz 1 rodada(s).
+Jogador 3 disse que faz 1 rodada(s).
+Jogador 4 disse que faz 1 rodada(s).
+Comecou a rodada: 1
+Carta escolhida pelo jogador 6: Q de Ouros
+Carta escolhida pelo jogador 7: 4 de Copas
+Carta escolhida pelo jogador 8: 4 de Paus
+Carta escolhida pelo jogador 1: K de Copas
+Carta escolhida pelo jogador 3: J de Ouros
+Carta escolhida pelo jogador 4: 3 de Copas
+Jogador 8 ganhou a rodada!
+Comecou a rodada: 2
+Carta escolhida pelo jogador 6: 4 de Ouros
+Carta escolhida pelo jogador 7: 6 de Paus
+Carta escolhida pelo jogador 8: 7 de Espadas
+Carta escolhida pelo jogador 1: 6 de Copas
+Carta escolhida pelo jogador 3: J de Espadas
+Carta escolhida pelo jogador 4: K de Espadas
+Jogador 4 ganhou a rodada!
+Jogador 1 permanece com 0 vida(s)
+Jogador 1 saiu da partida.
+Jogador 3 permanece com 2 vida(s)
+Jogador 4 permanece com 2 vida(s)
+Jogador 6 permanece com 1 vida(s)
+Jogador 7 permanece com 3 vida(s)
+Jogador 8 permanece com 1 vida(s)
+Iniciou-se a partida: 7
+Jogador 7 disse que faz 1 rodada(s).
+Jogador 8 disse que faz 1 rodada(s).
+Jogador 3 disse que faz 1 rodada(s).
+Jogador 4 disse que faz 1 rodada(s).
+Jogador 6 disse que faz 1 rodada(s).
+Comecou a rodada: 1
+Carta escolhida pelo jogador 7: 5 de Ouros
+Carta escolhida pelo jogador 8: 2 de Ouros
+Carta escolhida pelo jogador 3: Q de Ouros
+Carta escolhida pelo jogador 4: 5 de Copas
+Carta escolhida pelo jogador 6: 7 de Paus
+Jogador 8 ganhou a rodada!
+Comecou a rodada: 2
+Carta escolhida pelo jogador 7: K de Ouros
+Carta escolhida pelo jogador 8: J de Ouros
+Carta escolhida pelo jogador 3: J de Copas
+Carta escolhida pelo jogador 4: Q de Paus
+Carta escolhida pelo jogador 6: 5 de Paus
+Jogador 7 ganhou a rodada!
+Comecou a rodada: 3
+Carta escolhida pelo jogador 7: As de Ouros
+Carta escolhida pelo jogador 8: K de Paus
+Carta escolhida pelo jogador 3: 2 de Paus
+Carta escolhida pelo jogador 4: 4 de Paus
+Carta escolhida pelo jogador 6: 4 de Ouros
+Jogador 4 ganhou a rodada!
+Jogador 3 permanece com 1 vida(s)
+Jogador 4 permanece com 2 vida(s)
+Jogador 6 permanece com 0 vida(s)
+Jogador 6 saiu da partida.
+Jogador 7 permanece com 3 vida(s)
+Jogador 8 permanece com 1 vida(s)
+Iniciou-se a partida: 8
+Jogador 8 disse que faz 1 rodada(s).
+Jogador 3 disse que faz 1 rodada(s).
+Jogador 4 disse que faz 1 rodada(s).
+Jogador 7 disse que faz 1 rodada(s).
+Comecou a rodada: 1
+Carta escolhida pelo jogador 8: Q de Paus
+Carta escolhida pelo jogador 3: 2 de Ouros
+Carta escolhida pelo jogador 4: K de Espadas
+Carta escolhida pelo jogador 7: 4 de Paus
+Jogador 7 ganhou a rodada!
+Comecou a rodada: 2
+Carta escolhida pelo jogador 8: As de Paus
+Carta escolhida pelo jogador 3: As de Ouros
+Carta escolhida pelo jogador 4: K de Paus
+Carta escolhida pelo jogador 7: 2 de Espadas
+Jogador 7 ganhou a rodada!
+Comecou a rodada: 3
+Carta escolhida pelo jogador 8: 6 de Paus
+Carta escolhida pelo jogador 3: K de Copas
+Carta escolhida pelo jogador 4: 5 de Paus
+Carta escolhida pelo jogador 7: 5 de Espadas
+Jogador 3 ganhou a rodada!
+Comecou a rodada: 4
+Carta escolhida pelo jogador 8: 6 de Ouros
+Carta escolhida pelo jogador 3: Q de Ouros
+Carta escolhida pelo jogador 4: As de Espadas
+Carta escolhida pelo jogador 7: 3 de Paus
+Jogador 4 ganhou a rodada!
+Jo
